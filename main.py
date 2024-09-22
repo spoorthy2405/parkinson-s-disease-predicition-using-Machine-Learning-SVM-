@@ -4,7 +4,7 @@ from sklearn.svm import SVC
 from sklearn.metrics import classification_report, accuracy_score
 
 # Use raw string for file path
-file_path = r"C:\Users\vishn\OneDrive\Desktop\archive (1)\Parkinsson disease.csv"
+file_path = r"enter the path of the dataset"
 
 # Debug: Starting script
 print("Script is starting...")
